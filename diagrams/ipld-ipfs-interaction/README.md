@@ -13,3 +13,5 @@ These are the libraries we will build on top of for interaction with IPFS in the
 ## Under investigation
 
 1. [ceramic](https://blog.ceramic.network/how-to-store-signed-and-encrypted-data-on-ipfs/) - for signing (and optionally encrypting) data on IPFS.
+2. [IPLD Schema](https://github.com/ipld/js-ipld-schema)
+3. [IPFS HTTP Client](https://github.com/ipfs/js-ipfs/tree/master/packages/ipfs-http-client)
